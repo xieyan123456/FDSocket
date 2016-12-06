@@ -1,0 +1,20 @@
+//
+//  VistorsPrefix.pch
+//  vistorsSDK
+//
+//  Created by tanghy on 16/4/13.
+//  Copyright © 2016年 tanghy. All rights reserved.
+//
+
+#ifndef VistorsPrefix_pch
+#define VistorsPrefix_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import <UIKit/UIKit.h>
+#import "Util.h"
+#import "Nationnal.h"
+#import "IMSocket.h"
+
+#endif /* VistorsPrefix_pch */

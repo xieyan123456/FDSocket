@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "003cbd5c-2cbf-41ef-8d22-5c62c49f1517",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "003cbd5c-2cbf-41ef-8d22-5c62c49f1517" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "003cbd5c-2cbf-41ef-8d22-5c62c49f1517" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5DF36EBB-2C34-4370-8084-2023B5DB8A35",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "003cbd5c-2cbf-41ef-8d22-5c62c49f1517" : "vistorSDK\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "vistorsSDK",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "trunk\/SDK\/vistorsSDK.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/code.taobao.org\/svn\/vistorSDK",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "003cbd5c-2cbf-41ef-8d22-5c62c49f1517"
+    }
+  ]
+}
